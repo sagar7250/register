@@ -1,0 +1,11 @@
+{
+    "description": "Resume Builder App",
+    "repo": "https://github.com/sagar7250/resume-builder-frontend",
+    "owner": {
+        "username": "sagar7250",
+        "email": "hemasagar27521@gmail.com"
+    },
+    "record": {
+        "CNAME": "cname.vercel-dns.com"
+    }
+}
